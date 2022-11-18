@@ -1,1 +1,1 @@
-#My lorem ipsum
+<img src="imgRM/photo.png">
